@@ -4,6 +4,14 @@ Dự án này triển khai một hệ thống Phân Tích Cảm Xúc Theo Khía 
 
 ---
 
+## 🎥 Video Demo
+
+Bấm vào hình ảnh dưới đây để xem video demo chi tiết về cách hệ thống hoạt động trên giao diện web Gradio:
+
+[![Demo ABSA System](https://img.youtube.com/vi/4iauET7w4Fo/0.jpg)](https://www.youtube.com/watch?v=4iauET7w4Fo)
+
+---
+
 ## 📊 Nguồn Dữ Liệu (Data Source)
 
 Dữ liệu huấn luyện và đánh giá được sử dụng trong dự án bắt nguồn từ tập dữ liệu chuẩn **SemEval-2014 Task 4 (Restaurant Reviews)**. 
