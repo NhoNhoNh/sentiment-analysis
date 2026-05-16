@@ -1,0 +1,35 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Saved Models & Checkpoints
+train/saved_models/
+saved_models/
+*.bin
+*.safetensors
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# IDEs
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
